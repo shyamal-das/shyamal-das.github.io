@@ -1,1 +1,12 @@
+title: Shyamal Das # your name or website name here
+logo: "/portfolio.png?raw=true" # your photo or logo here
+description: >
+Electrical Engineer
+<br><br>
+<a href="mailto:shyamaldas1797@gmail.com">shyamaldas1797@gmail.com </a>
+<br>
+<a href=" ">LinkedIn Profile </a>
+<br>
+<a href="github.com/shyamal-das/">Github Profile </a>
+
 theme: jekyll-theme-minimal
