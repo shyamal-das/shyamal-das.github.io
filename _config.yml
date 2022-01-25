@@ -1,3 +1,4 @@
+
 title: Shyamal Das # your name or website name here
 logo: "/portfolio.png?raw=true" # your photo or logo here
 description: >
@@ -8,5 +9,4 @@ description: >
     <a href=" ">LinkedIn Profile </a>
     <br>
     <a href="github.com/shyamal-das/">Github Profile </a>
-
 theme: jekyll-theme-minimal
