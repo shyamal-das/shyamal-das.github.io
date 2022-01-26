@@ -9,8 +9,8 @@ I am an electrical engineering student focussed to research in the domain of Pow
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/0/01/Python_logo_53.svg' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" alt="react" width="auto" height="40"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' height='40' width='40' alt="js">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" alt="react" width="40" height="40"/>
 </p>
 
 ---
